@@ -11,7 +11,7 @@
 
 > A ideia é fazer um sistema que converta moedas com o seu valor em tempo real, contendo também um dashboard interativo com gráficos estatísticos.
 > 
-> Projeto de conversão de moedas com um backend em ASP.NET e frontend em React com Tailwind. 
+> Projeto de conversão de moedas com um backend em ASP.NET e frontend em React com Tailwind estruturado no padrão DDD (Domain Driven Design). 
 
 
   <a href="https://github.com/p1nheiros/currency-converter"><strong>➥ Visualizar Projeto</strong></a>
