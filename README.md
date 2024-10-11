@@ -7,14 +7,13 @@
   <br />
   <br />
 
-  <h1 align="center">Currency Converter</h1>
+  <h1 align="center">Coda o Code</h1>
 
-> A ideia é fazer um sistema que converta moedas com o seu valor em tempo real, contendo também um dashboard interativo com gráficos estatísticos.
+> **Coda o Code** é uma plataforma inovadora para aprender e aprimorar suas habilidades em **SQL Server** por meio de tutoriais detalhados, dicas, curiosidades e desafios práticos adaptados ao seu nível de conhecimento.
 > 
-> Projeto de conversão de moedas com um backend em ASP.NET e frontend em React com Tailwind estruturado no padrão DDD (Domain Driven Design). 
+> Desenvolvido com **C# ASP.NET Core** no backend e **React** com **Tailwind CSS** no frontend, o projeto segue os princípios de **Domain Driven Design (DDD)** e **MVC** para oferecer uma experiência de aprendizado dinâmica, eficiente e envolvente. O objetivo é ajudar desenvolvedores a dominar **SQL Server** de forma prática, interativa e divertida.
 
-
-  <a href="https://github.com/p1nheiros/currency-converter"><strong>➥ Visualizar Projeto</strong></a>
+  <a href="https://github.com/p1nheiros/coda-o-code"><strong>➥ Visualizar Projeto</strong></a>
 
 </div>
 
@@ -35,13 +34,13 @@ Para executar o repositório localmente, execute este comando no seu git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/p1nheiros/currency-converter.git
+sudo git clone https://github.com/p1nheiros/coda-o-code.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/p1nheiros/currency-converter.git
+git clone https://github.com/p1nheiros/coda-o-code.git
 ```
 
 
