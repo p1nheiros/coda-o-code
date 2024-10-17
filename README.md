@@ -50,7 +50,7 @@ git clone https://github.com/p1nheiros/coda-o-code.git
 <table>
   <tr>
     <td>
-      <a href="#">
+      <a href="https://github.com/p1nheiros">
         <img src="https://avatars.githubusercontent.com/u/124714182?v=4" width="100px;" alt="Lucas Pinheiro"/><br>
         <sub>
           <b>Lucas Pinheiro</b>
@@ -62,7 +62,7 @@ git clone https://github.com/p1nheiros/coda-o-code.git
 
 ### ☎️ Contato
 
-Se você quiserentrar em contato comigo, pode me encontrar no [Gmail](mailto:pinheiros.dev@gmail.com).
+Se você quiser entrar em contato comigo, pode me encontrar no [Gmail](mailto:pinheiros.dev@gmail.com).
 
 ### 📝 Licença
 
